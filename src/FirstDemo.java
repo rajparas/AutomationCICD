@@ -12,6 +12,7 @@ public class FirstDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// New Comments are added
+		// New Comments are added1
 		System.setProperty("webdriver.chrome.driver", "D:\\Sanket\\Selenium\\Drivers\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.navigate().to("https://www.facebook.com/");
